@@ -87,8 +87,8 @@ a:hover {
     background-color: #181719;
     border-bottom: 2px solid black;
     position: absolute;
-    margin-left: 850px;
-    margin-top: 400px;
+    margin-left: 800px;
+    margin-top: 420px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
